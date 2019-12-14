@@ -1,2 +1,2 @@
-# canif
-CAN tools
+# Canif
+CAN tools and testing
